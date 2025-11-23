@@ -1,0 +1,5 @@
+Linea numero 1, bla bla
+Linea numero 2, hola como estas
+Linea numero 3, este es un archivo de prueba
+Linea numero 4, para leer en punto 3
+Linea numero 5, fin del archivo
